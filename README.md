@@ -1,5 +1,5 @@
 # poker-api
-The [Poker API](https://www.pokerscript.net/poker-api.html)serves as a set of poker game URLs, enabling seamless integration between a gaming platform and a remotely hosted online poker game service provider. This external service provider takes care of essential aspects such as game logic, security, player data, and transactions. By acting as an intermediary layer, the Poker API simplifies the process of setting up online poker games, lobbies, poker rooms, and tournaments on your website, eliminating the requirement for local hosting. Moreover, it allows you to maintain your brand identity throughout the gaming experience.
+The [Poker API](https://www.pokerscript.net/poker-api.html) serves as a set of poker game URLs, enabling seamless integration between a gaming platform and a remotely hosted online poker game service provider. This external service provider takes care of essential aspects such as game logic, security, player data, and transactions. By acting as an intermediary layer, the Poker API simplifies the process of setting up online poker games, lobbies, poker rooms, and tournaments on your website, eliminating the requirement for local hosting. Moreover, it allows you to maintain your brand identity throughout the gaming experience.
 
 Below is a list of various Poker APIs and their roles in poker game development:
 
